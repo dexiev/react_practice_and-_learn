@@ -5,7 +5,7 @@ import Practice from './Practice.js'
 function App() {
   return (
     <div className="App">
-      <Practice></Practice>
+      <Practice/>
     </div>
   );
 }
